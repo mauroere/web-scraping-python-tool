@@ -1,2 +1,5 @@
-# email_extractor_python
-Extracción de emails y números telefónicos. Web scraping en Python
+# Herramienta de extracción de emails y números telefónicos con Python
+
+Descargue y ejecute en consola.
+
+
